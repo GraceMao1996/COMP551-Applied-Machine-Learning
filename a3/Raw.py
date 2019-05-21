@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 10 17:40:03 2019
 
-@author: Max
-"""
+
 import cv2
 import numpy as np
 import pandas as pd
