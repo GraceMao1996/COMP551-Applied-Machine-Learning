@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Mar  9 14:58:42 2019
 
-@author: Max
-"""
 
 from __future__ import division
 
